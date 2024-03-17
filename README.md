@@ -1,7 +1,7 @@
-# js-lab-95
-### Lab95 Array: การสร้างตัวแปรจากตัวแปร
-ให้สร้างตัวแปร Array โดยเอาค่ามาจาก sports ในตำแหน่ง index 1 ถึง 3
+# js-lab-96
+### Lab96 Array: remove element
+ให้เขียนโค้ดเพื่อ remove element ในตัวแปร fish ออกให้หมด
 
 ```JavaScript
-const sports = ['football', 'volleyball', 'tennis', 'basketball', 'judo'];
+let fish = ['angel', 'clown', 'mandarin', 'sturgeon'];
 ```
